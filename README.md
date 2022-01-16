@@ -1,2 +1,1 @@
-# jsx
-lesson 2
+const element = <h1>Hello Anuj!</h1>;
